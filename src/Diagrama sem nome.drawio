@@ -323,6 +323,19 @@
             </mxGeometry>
           </mxCell>
         </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="JSON/HTTP" c4Description="Recupera o estado da conversa para manter&#xa;continuidade e contexto entre&#xa;interações do usuário" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="4NacW16ovgqLjH-iZWPr-39">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4NacW16ovgqLjH-iZWPr-12" target="4NacW16ovgqLjH-iZWPr-24">
+            <mxGeometry x="-0.2295" width="240" relative="1" as="geometry">
+              <mxPoint x="560" y="660" as="sourcePoint" />
+              <mxPoint x="800" y="660" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="700" y="655" />
+                <mxPoint x="700" y="1000" />
+              </Array>
+              <mxPoint as="offset" />
+            </mxGeometry>
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
