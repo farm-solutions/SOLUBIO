@@ -145,6 +145,14 @@
             </mxGeometry>
           </mxCell>
         </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="Processamento interno" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="4NacW16ovgqLjH-iZWPr-37">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.998;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4NacW16ovgqLjH-iZWPr-14" target="xEpCCRuONQisVrGLrf9y-4">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="420" y="110" as="sourcePoint" />
+              <mxPoint x="432" y="121" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
         <object placeholders="1" c4Type="Relationship" c4Description="Envia texto" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="4NacW16ovgqLjH-iZWPr-15">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
             <mxGeometry width="240" relative="1" as="geometry">
@@ -180,7 +188,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="JSON/HTTP para DynamoDB" c4Description="Armazena ou recupera o contexto da conversa para continuidade do diálogo" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="4NacW16ovgqLjH-iZWPr-26">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.489;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="4NacW16ovgqLjH-iZWPr-24">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.489;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xEpCCRuONQisVrGLrf9y-4" target="4NacW16ovgqLjH-iZWPr-24">
             <mxGeometry x="0.3975" y="3" width="240" relative="1" as="geometry">
               <mxPoint x="1110" y="800" as="sourcePoint" />
               <mxPoint x="1110" y="980" as="targetPoint" />
