@@ -27,6 +27,16 @@
 ## Chatbot Dra. Jô - Solução de Atendimento Inteligente
 Este projeto implementa uma solução de chatbot baseada em IA para a Dra. Jô, idealizada para otimizar e automatizar o atendimento ao cliente. O chatbot é construído sobre uma arquitetura escalável e segura, utilizando tecnologias de IA e NLP da AWS para oferecer uma experiência de atendimento personalizada e eficiente.
 
+## 📑 Índice
+- [Descrição](#descrição)
+- [Objetivos](#objetivos)
+- [Detalhamento da arquitetura escolhida](#detalhamento-da-arquitetura-escolhida)
+- [Estimativa de custos](#estimativa-de-custos)
+- [Escolha do C4 Model](#escolha-do-c4-model)
+- [O Diagrama de arquitetura](#o-diagrama-de-arquitetura)
+  - [Usando o diagrama](#usando-o-diagrama)
+  - [Acessando a URL Pública](#acessando-a-url-publica)
+- [Licença](#licença)
 
 ## Objetivos
 O objetivo deste chatbot é oferecer suporte inteligente para clientes da Dra. Jô, viabilizando atendimentos automatizados, agendamentos, orientação sobre produtos, e suporte técnico. A arquitetura considera a escalabilidade necessária para atender um grande número de clientes com segurança e foco na experiência do usuário.
