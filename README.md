@@ -49,7 +49,7 @@ Clique [aqui para visualizar a estimativa de custos](./document/custos.pdf)
 
 # Escolha do C4 Model
 
-A arquitetura do chatbot da Dra. Jô foi desenhada usando o (C4 Model)[https://c4model.com/) devido à sua clareza e capacidade de representar sistemas complexos de maneira compreensível e modular. O C4 Model oferece quatro níveis de abstração que ajudam a capturar tanto a visão geral quanto os detalhes técnicos da solução, adequados para comunicar efetivamente com diferentes públicos, desde stakeholders de negócios até desenvolvedores técnicos. Os motivos específicos para a escolha incluem:
+A arquitetura do chatbot da Dra. Jô foi desenhada usando o [C4 Model](https://c4model.com/) devido à sua clareza e capacidade de representar sistemas complexos de maneira compreensível e modular. O C4 Model oferece quatro níveis de abstração que ajudam a capturar tanto a visão geral quanto os detalhes técnicos da solução, adequados para comunicar efetivamente com diferentes públicos, desde stakeholders de negócios até desenvolvedores técnicos. Os motivos específicos para a escolha incluem:
 
 1. **Clareza e Organização**: O C4 Model permite descrever a arquitetura em quatro níveis de detalhe: Contexto, Contêineres, Componentes, e Código. Essa abordagem facilita o entendimento de cada camada do sistema, desde a visão geral até as especificidades dos componentes, mantendo a estrutura organizada e fácil de seguir.
 
